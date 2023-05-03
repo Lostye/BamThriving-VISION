@@ -19,5 +19,20 @@ robomaster欣竹战队视觉
     
 安装相机驱动    
 下载链接：https://pan.baidu.com/s/1OplS2ST2jfeDzYpOI8dbYg
-密码：1024
-解压后
+密码：1024 
+解压后执行命令安装
+    
+    sudo chmod +x MVviewer_Ver2.2.5_Linux_x86_Build20200910.run
+    sudo ./MVviewer_Ver2.2.5_Linux_x86_Build20200910.run
+
+### 构建运行
+接入相机后运行
+
+    mkdir build
+    cd build
+    cmake ..
+    make -j8
+    ./BamThriving-VISION
+    
+### 一些说明
+次项目算法实现比较简单，全为传统视觉实现，体量较小，能够实现数图案分类和卡尔曼运动预测。项目一边迭代一边测试，很多代码没有仔细斟酌。实际效果可查看上面提到的网盘或查阅比赛视频。
