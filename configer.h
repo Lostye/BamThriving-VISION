@@ -32,7 +32,7 @@ using namespace cv::ml;
 //#define DRAW_ROI_RECT             //画ROI矩形
 //#define SHOW_ROI_AERA             //显示ROI区域
 
-#define SERIAL_OPEN             //串口开关
+//#define SERIAL_OPEN             //串口开关
 
 typedef struct base
 {
