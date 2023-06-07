@@ -147,7 +147,7 @@ void predictor::prediction(Robot robot_last, Robot& robot, bool flag, double t, 
 
     if(!flag)
         reset();
- cout<<"pre_debug: "<<x(1.0)-robot.yaw<<endl;
+ cout<<"pre_debug: "<<x(1,0)-robot.yaw<<endl;
 //    robot.pitch=x(0,0);
     robot.yaw=x(1,0);
 
