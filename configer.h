@@ -36,7 +36,7 @@ using namespace cv::ml;
 
 typedef struct base
 {
-    Ptr<KNearest> model_R = StatModel::load<KNearest>("../R.xml");
+    Ptr<KNearest> model_R = StatModel::load<KNearest>("../xml/R.xml");
 
     Mat CAMERA_MATRIX = (Mat_<double>(3, 3) <<1.361985498410507e+03 , 0 , 6.237240454251589e+02 ,
                 0 ,  1.315954307698096e+03 , 4.909753001718418e+02 , 0 , 0 , 1);
