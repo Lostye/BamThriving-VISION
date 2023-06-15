@@ -18,7 +18,7 @@ robomaster欣竹战队视觉
     sudo cp -r /usr/include/eigen3 /usr/local/include/
     
 安装相机驱动    
-下载链接：https://pan.baidu.com/s/1OplS2ST2jfeDzYpOI8dbYg
+下载链接：[https://pan.baidu.com/s/1OplS2ST2jfeDzYpOI8dbYg](https://pan.baidu.com/s/19Uu3tTASkkz1Mb11fvGDkQ)
 密码：1024 
 解压后执行命令安装
     
