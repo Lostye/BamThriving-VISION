@@ -24,6 +24,12 @@ robomaster欣竹战队视觉
     
     sudo chmod +x MVviewer_Ver2.2.5_Linux_x86_Build20200910.run
     sudo ./MVviewer_Ver2.2.5_Linux_x86_Build20200910.run
+    
+
+下载svm模型文件
+网盘链接同上，文件为xml.zip
+下载后解压到项目根目录
+
 
 ### 构建运行
 接入相机后运行
