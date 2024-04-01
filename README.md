@@ -50,4 +50,4 @@ robomaster欣竹战队视觉
 在此特别感谢战队所有视觉组成员！！
 
 ##### 欢迎交流
-WX：-Yangxiaolang
+WX：lostye_
